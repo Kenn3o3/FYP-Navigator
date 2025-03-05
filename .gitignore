@@ -1,4 +1,5 @@
 .vscode/
 isaaclab_exts/omni.isaac.vlnce/assets
+isaaclab_exts/omni.isaac.vlnce/assets
 *.pyc
 *.egg-info

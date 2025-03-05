@@ -1,0 +1,19 @@
+[package]
+version = "0.0.1"
+title = "Vision Language Navigation extension"
+description="Extension for Legged Robot Locomotion and Navigation"
+authors =["Zhaojing Yang", "Yandong Ji"]
+repository = "https://github.com/yang-zj1026/VLN-CE-Isaac"
+category = "robotics"
+keywords = ["kit", "robotics"]
+readme  = "docs/README.md"
+
+[dependencies]
+"omni.kit.uiapp" = {}
+"omni.isaac.ui" = {}
+"omni.isaac.core" = {}
+"omni.isaac.lab" = {}
+
+# Main python module this extension provides.
+[[python.module]]
+name = "omni.isaac.vlnce"

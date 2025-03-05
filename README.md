@@ -1,4 +1,4 @@
-# FYP Project Title
+# Embodied AI for Navigation with Quadruped Robots
 
 [**WONG Lik Hang Kenny**](https://kenn3o3.github.io/)
 

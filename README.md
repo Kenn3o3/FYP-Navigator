@@ -4,6 +4,10 @@
 
 [[Paper & Appendices]()] [[GitHub](https://github.com/Kenn3o3/FYP-Navigator)]
 
+After setting up this repository, you will be able to run a demo quadruped robot in the simulator like below:
+
+![Cover Image](ci.png)
+
 ## Final Project Code Structure
 
 ```

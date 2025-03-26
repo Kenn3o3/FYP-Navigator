@@ -89,6 +89,8 @@ cd ~/fyp/FYP-Navigator
 python demo.py --task=go2_matterport_vision --history_length=9 --load_run=2024-09-25_23-22-02
 ```
 
+The demo file is also provided from [VLN-CE-Isaac](https://huggingface.co/datasets/Zhaojing/VLN-CE-Isaac/tree/main).
+
 ### Next Step
 
 1. Configure the dataset according to https://github.com/Kenn3o3/VLN-Go2-Matterport
@@ -98,3 +100,8 @@ python demo.py --task=go2_matterport_vision --history_length=9 --load_run=2024-0
     - [MCoT-LLM-VLN](https://github.com/Kenn3o3/MCoT-LLM-VLN)
 
     - [Recurrent-VLN-Bert-Isaac](https://github.com/Kenn3o3/Recurrent-VLN-Bert-Isaac)
+
+```
+The documentations are polished by ChatGPT.
+Moreover, ChatGPT has been used in debugging and implementing some low-level algorithms such as those involving file operations.
+```

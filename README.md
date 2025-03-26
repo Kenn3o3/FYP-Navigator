@@ -11,7 +11,7 @@
 |   ├── FYP-Navigator
 |   ├── IsaacLab
 |   ├── MCoT-LLM-VLN
-|   ├── MTLP-VLN
+|   ├── Recurrent-VLN-Bert-Isaac
 |   └── VLN-Go2-Matterport
 ```
 
@@ -78,7 +78,7 @@ git clone https://github.com/Kenn3o3/VLN-Go2-Matterport.git
 
 git clone https://github.com/Kenn3o3/MCoT-LLM-VLN.git
 
-git clone https://github.com/Kenn3o3/MTLP-VLN.git
+git clone https://github.com/Kenn3o3/Recurrent-VLN-Bert-Isaac.git
 ```
 
 ### Validate the set up
@@ -97,4 +97,4 @@ python demo.py --task=go2_matterport_vision --history_length=9 --load_run=2024-0
 
     - [MCoT-LLM-VLN](https://github.com/Kenn3o3/MCoT-LLM-VLN)
 
-    - [MTLP-VLN](https://github.com/Kenn3o3/MTLP-VLN)
+    - [Recurrent-VLN-Bert-Isaac](https://github.com/Kenn3o3/Recurrent-VLN-Bert-Isaac)

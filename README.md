@@ -1,3 +1,11 @@
+# IMPORTANT:
+
+Belows are all the repos included in my FYP, please check them as well:
+
+- Dataset: [https://github.com/Kenn3o3/VLN-Go2-Matterport](https://github.com/Kenn3o3/VLN-Go2-Matterport)
+- Main Model: [https://github.com/Kenn3o3/Recurrent-VLN-Bert-Isaac](https://github.com/Kenn3o3/Recurrent-VLN-Bert-Isaac)
+- LLM Case Study: [https://github.com/Kenn3o3/MCoT-LLM-VLN](https://github.com/Kenn3o3/MCoT-LLM-VLN)
+
 # Embodied AI for Navigation with Quadruped Robots
 
 [**WONG Lik Hang Kenny**](https://kenn3o3.github.io/)

@@ -10,7 +10,7 @@ Belows are all the repos included in my FYP, please check them as well:
 
 [**WONG Lik Hang Kenny**](https://kenn3o3.github.io/)
 
-[[Paper & Appendices]()] [[GitHub](https://github.com/Kenn3o3/FYP-Navigator)]
+[[Paper & Appendices](https://kenn3o3.github.io/files/fyp-navigator/paper.pdf)] [[GitHub](https://github.com/Kenn3o3/FYP-Navigator)] [[Project Page](https://kenn3o3.github.io/projects/fyp-navigator)]
 
 After setting up this repository, you will be able to run a demo quadruped robot in the simulator like below:
 

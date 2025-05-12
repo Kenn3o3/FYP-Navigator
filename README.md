@@ -1,6 +1,6 @@
 # IMPORTANT:
 
-![Poster](poster.pdf)
+![Poster](poster.png)
 
 Belows are all the repos are parts of my FYP, please check them as well:
 

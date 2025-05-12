@@ -1,6 +1,8 @@
 # IMPORTANT:
 
-Belows are all the repos included in my FYP, please check them as well:
+![Poster](poster.pdf)
+
+Belows are all the repos are parts of my FYP, please check them as well:
 
 - Dataset: [https://github.com/Kenn3o3/VLN-Go2-Matterport](https://github.com/Kenn3o3/VLN-Go2-Matterport)
 - Main Model: [https://github.com/Kenn3o3/Recurrent-VLN-Bert-Isaac](https://github.com/Kenn3o3/Recurrent-VLN-Bert-Isaac)

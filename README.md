@@ -117,7 +117,11 @@ The demo file is also provided from [VLN-CE-Isaac](https://huggingface.co/datase
 
     - [Recurrent-VLN-Bert-Isaac](https://github.com/Kenn3o3/Recurrent-VLN-Bert-Isaac)
 
+You can cite this work with:
 ```
-The documentations are polished by ChatGPT.
-Moreover, ChatGPT has been used in debugging and implementing some low-level algorithms such as those involving file operations.
+@article{wong2025advancing,
+  title={Advancing Vision-Language Navigation for Quadruped Robots: A Novel Model and Dataset for Real-World Applications},
+  author={WONG, Lik Hang Kenny},
+  year={2025}
+}
 ```

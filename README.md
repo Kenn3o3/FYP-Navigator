@@ -1,3 +1,19 @@
+# News
+
+We are excited to announce the release of our new survey paper, "A Survey of Robotic Navigation and Manipulation with Physics Simulators in the Era of Embodied AI,". This paper provides a comprehensive overview of the latest Embodied AI advancements in robotic navigation and manipulation using physics simulators. The preprint is available on arXiv: [arXiv:2505.01458](https://arxiv.org/abs/2505.01458).
+
+You can cite this survey paper with:
+
+```
+@article{wong2025survey,
+  title={A Survey of Robotic Navigation and Manipulation with Physics Simulators in the Era of Embodied AI},
+  author={Wong, Lik Hang Kenny and Kang, Xueyang and Bai, Kaixin and Zhang, Jianwei},
+  journal={arXiv preprint arXiv:2505.01458},
+  year={2025}
+}
+```
+
+
 # POSTER:
 
 ![Poster](poster.png)

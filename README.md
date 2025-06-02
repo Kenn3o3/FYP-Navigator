@@ -2,6 +2,8 @@
 
 We are excited to announce the release of our new survey paper, "A Survey of Robotic Navigation and Manipulation with Physics Simulators in the Era of Embodied AI,". This paper provides a comprehensive overview of the latest Embodied AI advancements in robotic navigation and manipulation using physics simulators. The preprint is available on arXiv: [arXiv:2505.01458](https://arxiv.org/abs/2505.01458).
 
+![survey_diagram](survey_diagram.png)
+
 You can cite this survey paper with:
 
 ```

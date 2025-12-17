@@ -32,7 +32,7 @@ Belows are all the repos are parts of my FYP, please check them as well:
 
 [**WONG Lik Hang Kenny**](https://kenn3o3.github.io/)
 
-[[Paper & Appendices](https://kenn3o3.github.io/files/fyp-navigator/paper.pdf)] [[GitHub](https://github.com/Kenn3o3/FYP-Navigator)] [[Project Page](https://kenn3o3.github.io/projects/fyp-navigator)]
+[[Paper & Appendices](https://www.researchgate.net/publication/392510173_Advancing_Vision-Language_Navigation_for_Quadruped_Robots_A_Novel_Model_and_Dataset_for_Real-World_Applications)] [[GitHub](https://github.com/Kenn3o3/FYP-Navigator)] [[Project Page](https://kenn3o3.github.io/projects/fyp-navigator)]
 
 After setting up this repository, you will be able to run a demo quadruped robot in the simulator like below:
 
